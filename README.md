@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Building+Real-World+Projects;Java+%7C+Spring+Boot+%7C+React;Exploring+AI+%26+Intelligent+Systems)](https://git.io/typing-svg)
 
-[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272)  •  [GitHub](https://github.com/G-KUMAR05)
+[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272)  •  [Leetcode](https://leetcode.com/u/G-kumar/)
 
 </div>
 
