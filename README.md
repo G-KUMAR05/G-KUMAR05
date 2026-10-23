@@ -1,47 +1,39 @@
-
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Kumar 👋
 
-### Full-Stack Developer | AI & Backend Enthusiast
+### Full-Stack Developer 
 
-Building useful software, exploring AI, and turning ideas into working products.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Building+Real-World+Projects;Java+%7C+Spring+Boot+%7C+React;Exploring+AI+%26+Intelligent+Systems)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=FULLSTACK+%26+Developer;Building+AI-powered+Projects;Learning+by+Building+Real+Products)](https://git.io/typing-svg)
-
-[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272) • [GitHub](https://github.com/G-KUMAR05)
+[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272)  •  [GitHub](https://github.com/G-KUMAR05)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
+### 👨‍💻 About Me
 - 🎓 Final-year B.Tech IT student
-- 🔭 Building full-stack applications and AI-powered tools
-- 🌱 Learning backend engineering, databases, and system design
-- 💡 Interested in AI, software engineering, and space technology
-- ⚡ I learn best by building things that actually work
+- 💻 Building full-stack applications and AI-powered tools
+- 🌌 Interested in AI, space, science, and emerging technology
+- 🎯 Learning by building real-world projects
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,python,html,css,mysql,postgres,docker,git,github&theme=dark)](https://skillicons.dev)
 
-## 🚀 Featured Projects
+### 🚀 Featured Project
 
-- 🏥 [Smart Hospital Management](https://github.com/G-KUMAR05/smart-hospital-management) — Hospital management software.
-- 🎯 [JobRadar AI](https://github.com/G-KUMAR05) — Exploring smarter job discovery and alerts.
+[![Smart Hospital Management](https://github-readme-stats.vercel.app/api/pin/?username=G-KUMAR05&repo=smart-hospital-management&theme=tokyonight&hide_border=true)](https://github.com/G-KUMAR05/smart-hospital-management)
 
----
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-KUMAR05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
-*"Build. Break. Learn. Repeat."*
+*"Build. Explore. Repeat." 🌌*
 
 </div>
