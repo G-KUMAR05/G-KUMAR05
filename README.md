@@ -28,8 +28,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-KUMAR05&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
