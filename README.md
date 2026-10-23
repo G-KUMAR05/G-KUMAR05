@@ -7,9 +7,9 @@
 
 Building useful software, exploring AI, and turning ideas into working products.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Java+%26+Spring+Boot+Developer;Building+AI-powered+Projects;Learning+by+Building+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=FULLSTACK+%26+Developer;Building+AI-powered+Projects;Learning+by+Building+Real+Products)](https://git.io/typing-svg)
 
-[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272) • [Portfolio](https://kumar018.neocities.org/Event/kumar) • [GitHub](https://github.com/G-KUMAR05)
+[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272) • [GitHub](https://github.com/G-KUMAR05)
 
 </div>
 
@@ -37,12 +37,6 @@ Building useful software, exploring AI, and turning ideas into working products.
 
 - 🏥 [Smart Hospital Management](https://github.com/G-KUMAR05/smart-hospital-management) — Hospital management software.
 - 🎯 [JobRadar AI](https://github.com/G-KUMAR05) — Exploring smarter job discovery and alerts.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-KUMAR05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-KUMAR05&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
